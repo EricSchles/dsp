@@ -1,9 +1,9 @@
-You have two options to complete parts 1-3 (Install, Editors, Command Line).  
+You have two options to complete parts 1-3 (Install, Editors, Command Line).
 
-Option 1:  _Beginner:_ Edit markdown files directly on GitHub.  (Follow the instructions below).  
+Option 1:  _Beginner:_ Edit markdown files directly on GitHub.  (Follow the instructions below).
 Option 2:  _Intermediate:_ Edit files using GitHub pull/pull.  Follow "Set Up Repo on GitHub" [Step 4: Set up repo ](04-set_up_repo.md)
 
-The process below is designed to be accessible to anyone regardless of background in `git`. 
+The process below is designed to be accessible to anyone regardless of background in `git`.
 
 ---
 
@@ -33,7 +33,7 @@ This makes a personal copy of the repository that you can edit. Your forked copi
 This repository is `thisismetis/dsp`. Your forked copy will be `your_github_user_name/dsp`.
 
 
-## Step 4: Edit your fork  
+## Step 4: Edit your fork
 
 There are files in your forked repository that you need to edit to add your work.
 
@@ -55,6 +55,6 @@ Here's your first chance to practice this:
 
 What is your favorite [emoji](http://www.emoji-cheat-sheet.com/)?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> musical note
 
 
