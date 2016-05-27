@@ -44,16 +44,16 @@ cross-platform.
 
 ###Q1. Python Version 2 or 3
 
-Did you install Python 2 or 3? Why?  
+Did you install Python 2 or 3? Why?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I installed Python 3 since this is the primary version I used when practicing on site like DataQuest or CodeWars.
 
-###Q2. Which Python Version Installed   
+###Q2. Which Python Version Installed
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Typing in "python --version" in the terminal
 
- 
+
 
 
