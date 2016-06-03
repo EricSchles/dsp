@@ -46,7 +46,7 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?
 
->> I installed Python 3 since this is the primary version I used when practicing on sites like DataQuest, CodeWars, etc.
+>> I installed Python 3 since this is the primary version I used when practicing on sites like DataQuest, CodeWars, CodingBat, etc.
 
 ###Q2. Which Python Version Installed
 
