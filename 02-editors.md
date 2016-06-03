@@ -59,14 +59,12 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
---
+>> I initially learned vim when learning. However, nano is now my primary terminal editor due to its user friendliness and simplicity. As a safe-measure, I have also practiced the built-in tutorial in vim just in case I decide to go back to something more simple
 
 ###Q2. Graphical Editor
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I chose Sublime since I've been coding within it for the longest. I first picked it up as my primary text editor when I was a consultant and loved it over notepad++ ever since. One of the awesome features about sublime is it's ability to almost configure anything about the text editor. For things that are a bit more complicated, there are packages which you can download very easily via package control (similar to Homebrew and pip in a sense) to increase the functionality of sublime. I think the most useful shortcut key is probably "shift+command+p" which brings up a search bar (known as the command pallete) of essentially all the commands that you can use. To me, it's like Mac's spotlight functionality. It also auto-fills, which helps you in finding the right command. I also like "command+p" which lets you open documents within the branches that you have open. Probably my favorite command is any of the hotkeys to create a split of the current window into columns/rows. This really let's the user be very flexible with their workspace. I customize mine by adding a lot of packages such as TrailingSpaces (customize trailing space removal), Alignment (easily align multiple lines), DeleteBlankLines (customize blank line deletion), and also user preferences such as color schemes, highlight rules, save options, etc within the user settings.
 
- 
+
