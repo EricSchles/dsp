@@ -18,10 +18,11 @@ def donuts(count):
     >>> donuts(99)
     'Number of donuts: many'
     """
-    raise NotImplementedError
+    return ('Number of donuts: {}'.format(count if count < 10 else 'many'))
 
 
 def both_ends(s):
+
     """
     Given a string s, return a string made of the first 2 and the last
     2 chars of the original string, so 'spring' yields 'spng'.
@@ -37,7 +38,7 @@ def both_ends(s):
     >>> both_ends('xyz')
     'xyyz'
     """
-    raise NotImplementedError
+    return ("" if len(s) < 2 else s[0:2] + s[-2] + s[-1])
 
 
 def fix_start(s):
@@ -56,7 +57,7 @@ def fix_start(s):
     >>> fix_start('donut')
     'donut'
     """
-    raise NotImplementedError
+    return (s[0] + s[1:].replace(s[0], '*'))
 
 
 def mix_up(a, b):
@@ -74,7 +75,7 @@ def mix_up(a, b):
     >>> mix_up('pezzy', 'firm')
     'fizzy perm'
     """
-    raise NotImplementedError
+    return(b[0] + b[1] + a[2:] + " " + a[0] + a[1] + b[2:])
 
 
 def verbing(s):
@@ -91,7 +92,12 @@ def verbing(s):
     >>> verbing('do')
     'do'
     """
-    raise NotImplementedError
+    if len(s) < 3:
+        return (s)
+    elif s[-3:] == 'ing':
+        return(s + 'ly')
+    else:
+        return (s + 'ing')
 
 
 def not_bad(s):
@@ -111,7 +117,11 @@ def not_bad(s):
     >>> not_bad("It's bad yet not")
     "It's bad yet not"
     """
-    raise NotImplementedError
+
+    not_index = s.find('not')
+    bad_index = s.find('bad')
+
+    return (s.replace(s[not_index:bad_index + 3], 'good') if bad_index > not_index else s)
 
 
 def front_back(a, b):
@@ -130,4 +140,8 @@ def front_back(a, b):
     >>> front_back('Kitten', 'Donut')
     'KitDontenut'
     """
-    raise NotImplementedError
+
+    a_half_point = int((len(a) / 2) + 1 if len(a) % 2 != 0 else (len(a) / 2))
+    b_half_point = int((len(b) / 2) + 1 if len(b) % 2 != 0 else (len(b) / 2))
+
+    return(a[:a_half_point] + b[:b_half_point] + a[a_half_point:] + b[b_half_point:])
