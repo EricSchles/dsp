@@ -21,24 +21,24 @@ This data is available in this file:  [faculty.csv](python/faculty.csv)
 
 >>
 
-No_Degree    1
-BSEd         1
-JD           1
-MA           1
-MD           1
-MPH          2
-MS           2
-PhD         31
-ScD          6
+- No_Degree :    1
+- BSEd      :    1
+- JD        :    1
+- MA        :    1
+- MD        :    1
+- MPH       :    2
+- MS        :    2
+- PhD       :   31
+- ScD       :    6
 
 
 ####Q2. Find how many different titles there are, and their frequencies:  Ex:  Assistant Professor, Professor
 
 >>
 
-Professor              13
-Assistant Professor    12
-Associate Professor    12
+- Professor              : 13
+- Assistant Professor    : 12
+- Associate Professor    : 12
 
 
 ####Q3. Search for email addresses and put them in a list.  Print the list of email addresses.
@@ -52,10 +52,10 @@ Associate Professor    12
 
 >>
 
-cceb.med.upenn.edu     1
-email.chop.edu         1
-mail.med.upenn.edu    23
-upenn.edu             12
+- cceb.med.upenn.edu     : 1
+- email.chop.edu         : 1
+- mail.med.upenn.edu     : 23
+- upenn.edu              : 12
 
 Place your code in this file: [advanced_python_regex.py](python/advanced_python_regex.py)
 
