@@ -7,4 +7,4 @@ faculty_data = pd.read_csv('faculty.csv')
 list_of_emails = list(faculty_data[' email'])
 
 series_of_emails = pd.Series(list_of_emails)
-series_of_emails.to_csv('email_addresses.csv',index=False)
+series_of_emails.to_csv('emails.csv',index=False)
