@@ -79,12 +79,21 @@
 
 
 
+<<<<<<< HEAD
 <A href="/engine/5/5_1/index.shtml">Race directors: Promote your event</A><BR>Discover how Cool Running can help you.
 
 <BR><BR><a href="/eventcal/entryForm.php">Add to our calendar</a><BR>Submit your race to our event calendar.
 
 <BR><BR><A href="/results/resload.shtml">Submit race results</A><BR>Add race results to our results section.
 
+=======
+<A href="/engine/5/5_1/index.shtml">Race directors: Promote your event</A><BR>Discover how Cool Running can help you.
+
+<BR><BR><a href="/eventcal/entryForm.php">Add to our calendar</a><BR>Submit your race to our event calendar.
+
+<BR><BR><A href="/results/resload.shtml">Submit race results</A><BR>Add race results to our results section.
+
+>>>>>>> cd2e821c2ad291d26df3d298c9b15a4a41bc096d
 <BR><BR><A href="http://www.activenetwork.com/software/instant-ads.htm?cmp=26-800" target="_blank">Instant Ads</A><BR>Pay-Per-Click Ads on Active.com
 &nbsp;
 		
@@ -126,11 +135,19 @@
 				  <a href="/bin/res_load/res_print.cgi?r=10/ma/Apr25_27thAn_set1.shtml">&gt;&nbsp;Printer-friendly page</a>
 				  
 <!-- Begin CR output -->
+<<<<<<< HEAD
 <h1>27th Anniversary Edition James Joyce Ramble 10K</h1>
 <h2>Dedham, MA, April 25, 2010</h2>
 [<a href="./Apr25_27thAn_set2.shtml">Top Ten Males and Females</a> | <a href="./Apr25_27thAn_set3.shtml">Top Ten Masters Male and Female</a> | <a href="./Apr25_27thAn_set4.shtml">Age Groups</a> ]
 <h3>Overall</h3>
 <p><a href=http://JimRhoades.com/10/ramble>Photos</a> courtesy of <a href=mailto:teamtyler2@rcn.com?subject=ramble%20photos.%20Send%20file%20name>Ted Tyler</a><br>
+=======
+<h1>27th Anniversary Edition James Joyce Ramble 10K</h1>
+<h2>Dedham, MA, April 25, 2010</h2>
+[<a href="./Apr25_27thAn_set2.shtml">Top Ten Males and Females</a> | <a href="./Apr25_27thAn_set3.shtml">Top Ten Masters Male and Female</a> | <a href="./Apr25_27thAn_set4.shtml">Age Groups</a> ]
+<h3>Overall</h3>
+<p><a href=http://JimRhoades.com/10/ramble>Photos</a> courtesy of <a href=mailto:teamtyler2@rcn.com?subject=ramble%20photos.%20Send%20file%20name>Ted Tyler</a><br>
+>>>>>>> cd2e821c2ad291d26df3d298c9b15a4a41bc096d
 
 <body bgcolor="#FFFFFF">
 <P><br>
@@ -150,8 +167,13 @@
 
 <P>&nbsp; 
 
+<<<<<<< HEAD
 
 <p class="subhead">For more race information, see <a href="http://www.fotojack.com">Race Pictures may be found here.</a>.</p>
+=======
+
+<p class="subhead">For more race information, see <a href="http://www.fotojack.com">Race Pictures may be found here.</a>.</p>
+>>>>>>> cd2e821c2ad291d26df3d298c9b15a4a41bc096d
 <!-- Begin Results -->
 <PRE>
                                                                       Page 1
@@ -2173,6 +2195,7 @@ Place Div/Tot  Div   Guntime Nettime  Pace  Name                   Ag S Race# Ci
 				</TR>
 				<TR> 
 				  <TD align="left" valign="top"> 
+<<<<<<< HEAD
 		<style type="text/css">
 <!--
 .curvedtableborder {
@@ -2269,6 +2292,104 @@ function MM_swapImage() { //v3.0
           <tr>
             <td height="25"><div align="center"><a href="http://community.active.com/community/sports/running" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Forums','','http://www.coolrunning.com/templatepix/button-forums_f2.jpg',1)"><img src="http://www.coolrunning.com/templatepix/button-forums.jpg" alt="Forums" name="Forums" width="105" height="20" border="0" id="Forums" /></a></div></td>
           </tr>
+=======
+		<style type="text/css">
+<!--
+.curvedtableborder {
+	border: 1px solid #FFF;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+.curvedtableborder1 {	border: 1px solid #FFF;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.coolrunning.com/templatepix/button-active_f2.jpg','http://www.coolrunning.com/templatepix/help-round_f2.jpg','http://www.coolrunning.com/templatepix/button-postevent_f2.jpg','http://www.coolrunning.com/templatepix/button-submitresults_f2.jpg','http://www.coolrunning.com/templatepix/button-advertise_f2.jpg')">  <table width="155" border="0" bgcolor="#003399">
+    <tr>
+      <td><div align="left"><a href="http://www.active.com/running" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('My ACTIVE','','http://www.coolrunning.com/templatepix/button-active_f2.jpg',1)"><img src="http://www.coolrunning.com/templatepix/button-active.jpg" alt="My ACTIVE" name="My ACTIVE" width="80" height="20" border="0" id="My ACTIVE" /></a></div></td>
+      <td><div align="right"><a href="http://www.coolrunning.com/engine/5/5_3/index.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Help','','http://www.coolrunning.com/templatepix/button-help_f2.jpg',1)"><img src="http://www.coolrunning.com/templatepix/button-help.jpg" alt="Help" name="Help" width="45" height="20" border="0" id="Help" /></a></div></td></tr>
+  </table>
+        
+          <script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+          </script>
+<body onLoad="MM_preloadImages('http://www.coolrunning.com/templatepix/postevent-round-green_f2.jpg','http://www.coolrunning.com/templatepix/button-traininglog_f2.gif','http://www.coolrunning.com/templatepix/button-forums_f2.gif','http://www.coolrunning.com/templatepix/button-submitresults_f2.jpg','http://www.coolrunning.com/templatepix/advertise-round-green_f2.jpg')"><table width="155" cellpadding="0" cellspacing="3" bordercolor="FFFFFF" bgcolor="#003399" frame="box" class="curvedtableborder">
+          <tr>
+            <td height="25"><div align="center"><img src="http://www.coolrunning.com/templatepix/racedirectors-toprightnav-title.jpg" width="140" height="20" /></div></td>
+          </tr>
+          <tr>
+            <td height="25"><div align="center"><a href="http://www.coolrunning.com/eventcal/login/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Post a Race','','http://www.coolrunning.com/templatepix/button-postevent_f2.jpg',1)"><img src="http://www.coolrunning.com/templatepix/button-postevent.jpg" alt="Post a Race" name="Post a Race" width="105" height="20" border="0" id="Post a Race" /></a></div></td>
+          </tr>
+          <tr>
+            <td height="25"><div align="center"><a href="http://www.coolrunning.com/results/resload.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Submit Results','','http://www.coolrunning.com/templatepix/button-submitresults_f2.jpg',1)"><img src="http://www.coolrunning.com/templatepix/button-submitresults.jpg" alt="Submit Results" name="Submit Results" width="105" height="20" border="0"></a></div></td>
+          </tr>
+          <tr>
+            <td height="25"><div align="center"><a href="http://www.coolrunning.com/engine/5/5_1/index.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Advertise','','http://www.coolrunning.com/templatepix/button-advertise_f2.jpg',1)"><img src="http://www.coolrunning.com/templatepix/button-advertise.jpg" alt="Advertise" name="Advertise" width="105" height="20" border="0"></a></div></td>
+          </tr>
+</table>
+</br>
+<table width="155" cellpadding="0" cellspacing="3" bordercolor="FFFFFF" bgcolor="#003399" frame="box" class="curvedtableborder">
+<tr>
+            <td height="25"><div align="center"><img src="http://www.coolrunning.com/templatepix/runners-toprightnav-title.jpg" width="105" height="20" /></div></td>
+          </tr>
+          <tr>
+            <td height="25"><div align="center"><a href="http://trainer.active.com" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Training Log','','http://www.coolrunning.com/templatepix/button-traininglog_f2.jpg',1)"><img src="http://www.coolrunning.com/templatepix/button-traininglog.jpg" alt="Training Log" name="Training Log" width="105" height="20" border="0" id="Training Log" /></a></div></td>
+          </tr>
+          <tr>
+            <td height="25"><div align="center"><a href="http://community.active.com/community/sports/running" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Forums','','http://www.coolrunning.com/templatepix/button-forums_f2.jpg',1)"><img src="http://www.coolrunning.com/templatepix/button-forums.jpg" alt="Forums" name="Forums" width="105" height="20" border="0" id="Forums" /></a></div></td>
+          </tr>
+>>>>>>> cd2e821c2ad291d26df3d298c9b15a4a41bc096d
         </table>
 				  </TD>
 				</TR>
