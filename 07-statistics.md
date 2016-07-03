@@ -103,7 +103,7 @@ The bottom half of P(T|I)P(I) / P(T) can then be rewritten (since this is asking
 
 > P(T|I)(P(I) / P(T/I)P(I) + P(T|F)P(F)
 
-Plugging these values into Baye's Theorem, I achieve the final answer of **5/11**
+Plugging these values into Baye's Theorem, I achieve the final answer of **5/11**.
 
 ---
 
