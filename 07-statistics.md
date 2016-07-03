@@ -110,7 +110,7 @@ Plugging these values into Baye's Theorem, I achieve the final answer of **5/11*
 ###Q6. Bayesian &amp; Frequentist Comparison
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Bayesian statistics generally begin with a prior distribution that reflects what the user already knows. After collecting more data, the model being used would then be adjusted to account for the newly collected data (making posterior distributions). In frequentist statistics however, frequentist statistics generally have sharp decision rules and believe that probabilities represent long run frequencies.
 
 ---
 
