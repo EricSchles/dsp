@@ -2,7 +2,7 @@
 
 >>
 
-**Problem** : For this exercise, I plotted the actual and biased distributions in regards to the number of children in the household. By plotting the two, I can magnifty the bias that exists when we ask children who have households with many children.
+**Problem** : For this exercise, I plotted the actual and biased distributions in regards to the number of children in the household. By plotting the two, I can magnify the bias that exists when we ask children who have households with many children.
 
 **How I solved it** : I decided to use the author's Pmf function to do a majority of the calculations and thinkplot for plotting the actual vs bias data. I then created a copy of the original data and placed a bias on it.
 
@@ -41,4 +41,4 @@ thinkplot.Show()
 
 The normal_pmf mean was  1.02420515504 while the the bias_pmf mean was 2.40367910066.
 
-As one can see, the bias does indeed confirm that with children who are surveyed that have larger households, they tend to push the mean higher by approximately 1.4. This can also be seen by the difference in skews between the two plots.
+As one can see, the plots do confirm that children belonging to households with multiple children exemplify the "class size paradox", pushing the mean higher by approximately 1.4.
